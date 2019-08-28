@@ -1,4 +1,4 @@
-# Recommender-Systems-related-to-Reviews-in-Amazon
+# Recommender-Systems-Related-to-Reviews-in-Amazon
 
 Summary: 
 
